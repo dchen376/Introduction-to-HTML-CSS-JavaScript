@@ -65,8 +65,64 @@ XML (extensible markup langauge)
 
 
 
-## JavaScript Programming for Web Applications
+## JavaScript Programming for Web Applications(client-side scripting language)
 ![image](https://github.com/user-attachments/assets/b2d3944e-ce78-4784-86fb-1f367500a91e)
+
+![image](https://github.com/user-attachments/assets/a72715b8-d176-4c87-b62d-0d3ef49b93e3)
+
+![image](https://github.com/user-attachments/assets/93973a39-4895-4ae5-9183-1ddaeded5cdc)
+
+-JS primitives
+![image](https://github.com/user-attachments/assets/b4193d2d-6e11-4665-bdfe-964fce653807)
+
+- wrapper Objects
+  ![image](https://github.com/user-attachments/assets/16282e57-24be-40b6-bed4-095bba2139df)
+![image](https://github.com/user-attachments/assets/e3f496a7-978b-4c36-92f9-7293afb3de25)
+
+- array object
+  ![image](https://github.com/user-attachments/assets/5c33e4b8-17a6-40fa-a16d-59aa30def9c4)
+
+- date objects
+  ![image](https://github.com/user-attachments/assets/739d007d-8cb7-45f3-b931-97d48cbd36c5)
+
+-error object
+![image](https://github.com/user-attachments/assets/d1cfd61e-ea28-4167-8581-96c23fc7a898)
+
+
+### JavaScript: Variables and Control Statements
+![image](https://github.com/user-attachments/assets/7a6d7b5a-716d-42ee-8acf-00fba5b51bad)
+![image](https://github.com/user-attachments/assets/b6812105-92fc-41ae-8107-c667715ebcb1)
+
+![image](https://github.com/user-attachments/assets/6fce4718-931e-4276-97d2-b5e4ec0f6b8f)
+
+![image](https://github.com/user-attachments/assets/58eaa442-e2e7-4d12-8e27-5d9222c05a4b)
+![image](https://github.com/user-attachments/assets/ffc930bc-7abd-4e2a-9c89-2a243bbb2f44)
+![image](https://github.com/user-attachments/assets/1db29660-8356-4831-9490-6b873297dca3)
+![image](https://github.com/user-attachments/assets/1206f7d1-38ec-4971-94c3-0393e89c4a3b)
+
+
+### JavaScript: Functions and Prototypes
+![image](https://github.com/user-attachments/assets/b51593b0-dc6b-48db-9777-082f453c4572)
+
+![image](https://github.com/user-attachments/assets/a2ebb057-64c6-421f-8002-50616bb187fe)
+
+### JavaScript APIs
+![image](https://github.com/user-attachments/assets/50db2ddb-3c0f-430c-9b70-7fdbb5f60fa8)
+
+![image](https://github.com/user-attachments/assets/8bbc77d4-14f1-4a45-a629-3c5d722fa63c)
+
+
+![image](https://github.com/user-attachments/assets/7dd77f90-3cda-402d-bec0-35563e20e715)
+
+![image](https://github.com/user-attachments/assets/b5d44223-782f-468f-bf07-e21cdabdae9c)
+![image](https://github.com/user-attachments/assets/1ed0483a-3883-4632-aa9d-60cc88d552ec)
+
+
+
+
+
+
+
 
 
 ## Career Opportunities and Final Project
