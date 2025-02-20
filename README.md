@@ -137,7 +137,38 @@ XML (extensible markup langauge)
 
 ![image](https://github.com/user-attachments/assets/f2932fb0-4048-4838-9300-6948180ec927)
 
+## Insiders' Viewpoints: JavaScript Best Practices
+![image](https://github.com/user-attachments/assets/640c6c22-d182-4619-a66b-864da49b42ff)
 
+![image](https://github.com/user-attachments/assets/669c96d5-4715-472b-9435-f134620a1936)
+
+![image](https://github.com/user-attachments/assets/0a603343-1578-4f73-b96e-9ca85bf94c06)
+
+![image](https://github.com/user-attachments/assets/ad65d93d-a1b0-481e-ae71-5f9869f0eeb7)
+
+![image](https://github.com/user-attachments/assets/c546febc-6842-41ec-b5fb-498d6f63313b)
+
+
+
+
+
+### Client-side JavaScript: with DOM
+![image](https://github.com/user-attachments/assets/ac32083a-2f82-43f1-8891-c9876cdf0bd2)
+
+![image](https://github.com/user-attachments/assets/25ab7396-2d5f-4010-909c-68fe41e47e3a)
+
+![image](https://github.com/user-attachments/assets/7777d7e8-9307-4cdb-a8b0-3f64fe98ac8a)
+
+![image](https://github.com/user-attachments/assets/dbdb1e43-021f-4b99-b670-69a733fed96d)
+![image](https://github.com/user-attachments/assets/5d8a3fdc-7ea8-414b-90b8-a9ed4899f19a)
+
+![image](https://github.com/user-attachments/assets/88cf2620-d2c9-4f75-82b1-2c7d4c911b4b)
+
+
+
+
+
+### JavaScript DOM Objects
 
 
 
