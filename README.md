@@ -125,6 +125,20 @@ XML (extensible markup langauge)
 ![image](https://github.com/user-attachments/assets/5267f168-5863-437b-a597-4dbb3e8ea06c)
 ![image](https://github.com/user-attachments/assets/42261a16-57b8-4cda-a12d-730aceb09885)
 
+### Client-Side JavaScript: with HTML
+![image](https://github.com/user-attachments/assets/d36a99f3-6297-4401-876f-5ba532e6b327)
+
+![image](https://github.com/user-attachments/assets/3b07e072-4a90-48cd-bad6-8388f26da0d9)
+![image](https://github.com/user-attachments/assets/8f1b2162-4fd9-401d-a25a-b6aec5b14a8a)
+
+![image](https://github.com/user-attachments/assets/0e4b1656-5343-44b9-93fa-81e695672856)
+
+![image](https://github.com/user-attachments/assets/8577ee76-d410-4f6b-a3d5-a24e2ecd60e4)
+
+![image](https://github.com/user-attachments/assets/f2932fb0-4048-4838-9300-6948180ec927)
+
+
+
 
 
 
