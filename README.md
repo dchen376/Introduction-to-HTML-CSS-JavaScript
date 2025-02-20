@@ -168,8 +168,14 @@ XML (extensible markup langauge)
 
 
 
-
 ### JavaScript DOM Objects
+![image](https://github.com/user-attachments/assets/baaad704-793a-42d2-b55e-9143b9f12939)
+
+![image](https://github.com/user-attachments/assets/ea6920b3-22d2-4121-ab7a-827f72c83ce5)
+
+![image](https://github.com/user-attachments/assets/c1550fb3-566a-4b5b-b1fb-86007cd002cd)
+![image](https://github.com/user-attachments/assets/2f1ea2ed-a333-4c5a-a2bb-9c0779ab9b71)
+
 
 
 
