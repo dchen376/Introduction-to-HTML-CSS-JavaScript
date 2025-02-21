@@ -2,12 +2,12 @@
 https://www.coursera.org/learn/introduction-html-css-javascript
 
 
-## HTML (hypertext markup language)
+## M1 - HTML (hypertext markup language)
 
 XML (extensible markup langauge)
 
 
-## CSS Overview & HTML5 Elements
+## M2 - CSS Overview & HTML5 Elements
 ![image](https://github.com/user-attachments/assets/3dd68bdd-ac92-4cfb-8629-c07b201f4d7e)
 
 ### HTML5 Tags and Structural Elements
@@ -65,7 +65,7 @@ XML (extensible markup langauge)
 
 
 
-## JavaScript Programming for Web Applications(client-side scripting language)
+## M3 - JavaScript(client-side scripting language) Programming for Web Applications
 ![image](https://github.com/user-attachments/assets/b2d3944e-ce78-4784-86fb-1f367500a91e)
 
 ![image](https://github.com/user-attachments/assets/a72715b8-d176-4c87-b62d-0d3ef49b93e3)
@@ -179,7 +179,17 @@ XML (extensible markup langauge)
 
 ### JSFiddle (an online IDE)
 
+## M4 - Career Opportunities and Final Project
+![image](https://github.com/user-attachments/assets/09e1593f-549f-4111-8149-f6475aa365ac)
+
+
+
+
 
 
 ## Career Opportunities and Final Project
 ![image](https://github.com/user-attachments/assets/20897878-eb67-461c-8878-ffb27d35c3e5)
+
+### Hands-on-lab: simple interest calculator
+
+### final project - single page Portfolio Website
