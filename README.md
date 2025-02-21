@@ -137,7 +137,7 @@ XML (extensible markup langauge)
 
 ![image](https://github.com/user-attachments/assets/f2932fb0-4048-4838-9300-6948180ec927)
 
-## Insiders' Viewpoints: JavaScript Best Practices
+### Insiders' Viewpoints: JavaScript Best Practices
 ![image](https://github.com/user-attachments/assets/640c6c22-d182-4619-a66b-864da49b42ff)
 
 ![image](https://github.com/user-attachments/assets/669c96d5-4715-472b-9435-f134620a1936)
